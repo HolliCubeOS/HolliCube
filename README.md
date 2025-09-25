@@ -1,1 +1,1 @@
-# hollicube
+# Hollicube
