@@ -1,10 +1,12 @@
 # 🏢 关于和利时卡优倍
 
+
 和利时卡优倍科技有限公司聚焦于工业自动化、智能制造及工业AI核心方向，致力于打造新一代工业数字化基础设施，是国内领先的工业AI顶层架构设计与工业互联网平台解决方案提供商。
 
 官网：[https://www.hollicube.com/homePage](https://www.hollicube.com/homePage)
 
----
+<img width="258" height="258" alt="image" src="https://github.com/user-attachments/assets/a52c0cc4-e662-4270-bc3c-b4a0b67baf19" />
+
 
 ## 🚀 项目简介
 
@@ -12,7 +14,8 @@
 
 **商业版与开源版**: 此开源版本是和利时卡优倍工业物联网平台的重要组成部分。我们同时提供功能更完善、包含企业级技术支持与服务的商业版本。如需了解商业版本详情，请扫码添加微信。
 
----
+<img width="329" height="326" alt="image" src="https://github.com/user-attachments/assets/be1e83cc-0947-4282-bc15-ed9f3a7d725a" />
+
 
 ## ✨ 核心特性
 
@@ -29,11 +32,17 @@
 ---
 
 ## ✅ 主要行业:
+<img width="1569" height="646" alt="image" src="https://github.com/user-attachments/assets/ba28b83e-1aaf-46f4-a4f3-bc1690f56f19" />
+
 
 📋 **系统架构**
-![HolliCube OS多级业务协同](https://your_image_link/IMG_7133.jpeg)
+<img width="1922" height="1011" alt="产品功能" src="https://github.com/user-attachments/assets/24817d85-d6b3-4b12-b457-852abbe21e00" />
 
-![HolliCube架构图](https://your_image_link/455E9439-3678-450B-B9AF-3F3EB3DC9FBB-43417-000049FB8231FFB7.png)
+
+
+
+<img width="1850" height="1027" alt="多级业务协同" src="https://github.com/user-attachments/assets/2db6ef5d-49db-4e9b-8966-6e183ae62351" />
+
 
 ---
 
@@ -42,6 +51,8 @@
 - **GitHub Issues**: 用于技术讨论和Bug报告。
 - **官方文档**: [链接](https://www.hollicube.com/docs)
 - **QQ群/微信群**：
+<img width="347" height="505" alt="image" src="https://github.com/user-attachments/assets/65f25aca-b1ad-4e2d-a899-97f434eeaf64" /><img width="347" height="505" alt="image" src="https://github.com/user-attachments/assets/01f1180c-ec83-4f0f-be7a-9a6b9c656061" />
+
 
 ---
 
@@ -49,7 +60,8 @@
 
 视频地址（免费开放）：[https://www.hollicube.com/support/study/video](https://www.hollicube.com/support/study/video)
 
----
+<img width="1590" height="825" alt="image" src="https://github.com/user-attachments/assets/2418d1bc-c5be-4680-b48e-33b2298494ec" />
+
 
 ## 🤝 如何贡献
 
