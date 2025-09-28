@@ -31,11 +31,11 @@
 
 ---
 
-## ✅ 主要行业:
+## ✅ 主要行业
 <img width="1569" height="646" alt="image" src="https://github.com/user-attachments/assets/ba28b83e-1aaf-46f4-a4f3-bc1690f56f19" />
 
 
-📋 **系统架构**
+## 📋 系统架构
 <img width="1922" height="1011" alt="产品功能" src="https://github.com/user-attachments/assets/24817d85-d6b3-4b12-b457-852abbe21e00" />
 
 
