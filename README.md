@@ -14,7 +14,7 @@
 
 **商业版与开源版**: 此开源版本是和利时卡优倍工业物联网平台的重要组成部分。我们同时提供功能更完善、包含企业级技术支持与服务的商业版本。如需了解商业版本详情，请扫码添加微信。
 
-<img width="329" height="326" alt="image" src="https://github.com/user-attachments/assets/be1e83cc-0947-4282-bc15-ed9f3a7d725a" />
+<img width="258" height="258" alt="image" src="https://github.com/user-attachments/assets/be1e83cc-0947-4282-bc15-ed9f3a7d725a" />
 
 
 ## ✨ 核心特性
@@ -51,7 +51,7 @@
 - **GitHub Issues**: 用于技术讨论和Bug报告。
 - **官方文档**: [链接](https://www.hollicube.com/docs)
 - **QQ群/微信群**：
-<img width="347" height="505" alt="image" src="https://github.com/user-attachments/assets/65f25aca-b1ad-4e2d-a899-97f434eeaf64" /><img width="347" height="505" alt="image" src="https://github.com/user-attachments/assets/01f1180c-ec83-4f0f-be7a-9a6b9c656061" />
+<img width="258" height="505" alt="image" src="https://github.com/user-attachments/assets/65f25aca-b1ad-4e2d-a899-97f434eeaf64" /><img width="258" height="505" alt="image" src="https://github.com/user-attachments/assets/01f1180c-ec83-4f0f-be7a-9a6b9c656061" />
 
 
 ---
