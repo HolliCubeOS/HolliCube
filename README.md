@@ -51,7 +51,7 @@
 - **GitHub Issues**: 用于技术讨论和Bug报告。
 - **官方文档**: [链接](https://www.hollicube.com/docs)
 - **QQ群/微信群**：
-<img width="258" height="505" alt="image" src="https://github.com/user-attachments/assets/65f25aca-b1ad-4e2d-a899-97f434eeaf64" /><img width="258" height="505" alt="image" src="https://github.com/user-attachments/assets/01f1180c-ec83-4f0f-be7a-9a6b9c656061" />
+<img width="505" height="505" alt="image" src="https://github.com/user-attachments/assets/65f25aca-b1ad-4e2d-a899-97f434eeaf64" /><img width="505" height="505" alt="image" src="https://github.com/user-attachments/assets/01f1180c-ec83-4f0f-be7a-9a6b9c656061" />
 
 
 ---
